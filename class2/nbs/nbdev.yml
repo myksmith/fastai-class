@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fastai-class"
+  site-url: "https://myksmith.github.io/fastai-class"
+  description: "fast.ai coursework"
+  repo-branch: main
+  repo-url: "https://github.com/myksmith/fastai-class"
